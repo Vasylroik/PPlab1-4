@@ -1,0 +1,9 @@
+Бій між aaa і bbb розпочався!
+bbb атакує aaa, залишок HP у aaa: 55
+bbb атакує aaa, залишок HP у aaa: 40
+bbb атакує aaa, залишок HP у aaa: 25
+bbb атакує aaa, залишок HP у aaa: 10
+bbb атакує aaa, залишок HP у aaa: 0
+bbb переміг!
+Бій між bbb і aaa розпочався!
+bbb переміг!
